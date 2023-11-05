@@ -1,0 +1,8 @@
+Input: 2 -1
+Output: 0.50
+J01003
+Phương trình bậc nhất là phương trình dạng ax + b = 0.
+Viết chương trình nhập vào hệ số a,b là các số thực và thực hiện giải phương trình bậc nhất.
+Nếu phương trình vô nghiệm thì in ra VN
+Nếu phương trình có vô số nghiệm thì in ra VSN
+Nếu phương trình có nghiệm duy nhất thì in ra với định dạng luôn 2 chữ số thập phân.

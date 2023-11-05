@@ -1,0 +1,3 @@
+Viết chương trình tạo một hộp chọn màu.
+Khi chọn đến màu nào thì màu màn hình chuyển sang màu đó
+(có thể chọn màu dạng List, ComboBox hoặc ColorChooser)

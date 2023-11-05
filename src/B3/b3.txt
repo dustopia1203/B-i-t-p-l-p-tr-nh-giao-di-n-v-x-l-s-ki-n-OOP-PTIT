@@ -1,0 +1,2 @@
+Viết chương trình vẽ lên giao diện một đồng hồ có ba kim giờ, phút, giây và các số 3, 6, 9, 12.
+Ở phía dưới, hiển thị thêm một đồng hồ khác với giá trị số giờ:phút:giây (định dạng 24h).

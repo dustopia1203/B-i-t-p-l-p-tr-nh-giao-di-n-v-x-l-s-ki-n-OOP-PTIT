@@ -1,0 +1,2 @@
+Tạo giao diện cho ít nhất 5 bài trong danh sách các bài tập cơ bản làm quen với Java.
+Chú ý bắt lỗi người dùng khi nhập.

@@ -1,0 +1,5 @@
+Input: 2 10 20
+Output: 55 210
+J01002
+Cho số nguyên dương N.
+Hãy tính S = 1 + 2 + ... + N

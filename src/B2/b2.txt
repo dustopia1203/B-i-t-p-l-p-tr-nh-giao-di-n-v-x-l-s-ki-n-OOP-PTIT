@@ -1,0 +1,3 @@
+Viết chương trình vẽ các hình cơ bản: hình vuông, hình chữ nhật, hình tròn, hình đa giác.
+Cho phép người dùng chọn loại hình vẽ, kiểu rỗng hay đặc và chọn màu của hình.
+Cải tiến chương trình để có thể thay đổi các tham số của từng hình khi vẽ.

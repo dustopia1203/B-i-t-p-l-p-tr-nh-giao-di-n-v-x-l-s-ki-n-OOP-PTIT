@@ -1,0 +1,5 @@
+Input: 2 3 2 2 100000
+Output: 1.154701 1.632993 70710.678119
+J01005
+Cho một tam giác cân có độ dài đáy bằng 1 và chiều cao bằng H.
+Bạn cần chia tam giác này thành N phần có diện tích bằng nhau và song song với đáy.
